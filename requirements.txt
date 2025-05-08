@@ -2,3 +2,4 @@ numpy
 transformers
 accelerate
 sentencepiece
+bitsandbytes
